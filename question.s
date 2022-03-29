@@ -1,11 +1,3 @@
-; CS2208a 2021 
-; Assignment 05 
-; Jiaqi Yuan 
-; 251172679 
-; jyuan233 
-; Wednesday, November 26th, 2021 
-            
-
 
 
             AREA question2,CODE, READONLY
